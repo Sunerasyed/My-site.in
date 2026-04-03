@@ -66,7 +66,7 @@ My portfolio website
   </header>  <!-- About Section -->  <section>
     <h2>About Me</h2>
     <p>
-      I am a passionate student interested in Artificial Intelligence, Machine Learning, and Web Development .I enjoy building real-world projects and continuously learning new technologies.
+      I am a passionate student interested in Artificial Intelligence, Machine Learning, and Web Development .I enjoy building real-world projects, Exploring AI tools and continuously learning new technologies.
     </p>
   </section>  <!-- Skills Section -->  <section>
     <h2>Programming Skills</h2>
