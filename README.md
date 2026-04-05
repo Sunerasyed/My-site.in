@@ -89,7 +89,7 @@ My portfolio website
 
   </section>  <!-- Contact Section -->  <section>
     <h2>Contact</h2>
-    <p>Email: syedsunera5@gmail.com</p>
+    <p>Email: syedsunera317@gmail.com</p>
     <p>LinkedIn: <a href="#">https://www.linkedin.com/in/s-sunera-40b330375?utm_source=share_via&utm_content=profile&utm_medium=member_android</a></p>
   </section>  <!-- Footer -->  <footer>
     <p>© 2026 S SUNERA. All rights reserved.</p>
