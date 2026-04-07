@@ -66,7 +66,19 @@ My portfolio website
   </header>  <!-- About Section -->  <section>
     <h2>About Me</h2>
     <p>
-      I am a passionate student interested in Artificial Intelligence, Machine Learning, and Web Development .I enjoy building real-world projects, Exploring AI tools and continuously learning new technologies.
+      Hi, I'm sunera.
+
+I'm pursuing B-Tech in computer science and engineering in Artificial intelligence.I am a passionate technology student and AI enthusiast focused on building a strong foundation in programming and emerging technologies.
+
+I have learned programming languages such as C, C+and have basics in Python, and completed certifications including DCA and programming courses. I enjoy building projects and continuously improving my technical skills.
+
+I have participated in science and technology activities and secured 1st Prize in a Poster Presentation seminar, which strengthened my research and presentation skills.
+
+Currently, I am exploring Artificial Intelligence and modern AI tools and looking forward for the internships to learn more.
+
+🚀 Always learning and growing in technology.
+
+Aspiring AI Engineer | Tech Learner | Future Innovator | Future Entrepreneur 
     </p>
   </section>  <!-- Skills Section -->  <section>
     <h2>Programming Skills</h2>
@@ -75,21 +87,26 @@ My portfolio website
       <li>C++</li>
       <li>python</li>
       <li>Data Structures</li>
-    </ul>
+      </ul>
+ </div>
   </section>  <!-- Projects Section -->  <section>
     <h2>Projects</h2><div class="project">
   <h3>AI Project</h3>
   <p>Currently exploring the world of AI.</p>
 </div>
-
+   
 <div class="project">
   <h3>Portfolio Website</h3>
   <p>Designed and developed a personal portfolio using HTML.</p>
 </div>
+<div class="project">
+  <h3>Extra participations</h3>
+  <p>Participated in Hackathon and got selected for national level.Participated in English poster presentation and secured 1st position🥇</p>
+</div>
 
   </section>  <!-- Contact Section -->  <section>
     <h2>Contact</h2>
-    <p>Email: syedsunera0@gmail.com</p>
+    <p>Email: syedsunera5@gmail.com</p>
     <p>LinkedIn: <a href="#">https://www.linkedin.com/in/s-sunera-40b330375?utm_source=share_via&utm_content=profile&utm_medium=member_android</a></p>
   </section>  <!-- Footer -->  <footer>
     <p>© 2026 S SUNERA. All rights reserved.</p>
